@@ -1,7 +1,6 @@
-
 # 💻 C++ Programming Language
 
-Welcome to the **C++ Programming Language Learning Repository**! This project is designed to guide beginners and intermediate learners through C++ programming concepts, from basics to advanced topics, in a structured, day-by-day manner.  
+Welcome to the **C++ Programming Language Learning Repository**! This project is designed to guide beginners and intermediate learners through C++ programming concepts, from basics to advanced topics, in a structured, day-by-day manner.
 
 Each folder represents a learning day or topic, containing example codes, explanations, and practice exercises.
 
@@ -9,22 +8,24 @@ Each folder represents a learning day or topic, containing example codes, explan
 
 ## 📂 Repository Structure
 
-| Folder / File | Description |
-|---------------|-------------|
-| `Day 01 Basic C++` | Fundamentals of C++: syntax, variables, operators, input/output, and simple programs |
-| `Day 02 Dynamic Memory Allocation` | Learn about `new`, `delete`, pointers, and memory management in C++ |
-| `Day 03 Class and Object in C++` | Introduction to classes, objects, constructors, member functions, and OOP basics |
-| `Day 04 Test 01` | Test your knowledge from Days 01–03 |
-| `Day 05 String Class in C++` | Learn C++ `string` class, string operations, input/output, iterators, modifiers, and string streams |
+| Folder / File                        | Description                                                                                                                                          |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| `Day 01 Basic C++`                   | Fundamentals of C++: syntax, variables, operators, input/output, and simple programs                                                                 |
+| `Day 02 Dynamic Memory Allocation`   | Learn about `new`, `delete`, pointers, and memory management in C++                                                                                  |
+| `Day 03 Class and Object in C++`     | Introduction to classes, objects, constructors, member functions, and OOP basics                                                                     |
+| `Day 04 Test 01`                     | Test your knowledge from Days 01–03                                                                                                                  |
+| `Day 05 String Class in C++`         | Learn C++ `string` class, string operations, input/output, iterators, modifiers, and string streams                                                  |
 | `Day 06 More about class and string` | Advanced class and string concepts: dynamic object copying, member functions, range-based for loops, reverse and sort functions, string constructors |
-| `Day 07 Array of objects` | Working with arrays of objects, finding max/min values, sorting arrays of objects |exercises for Week 02 |
-| `Day 08 Test 02` | Test your knowledge from Days 05–07 |
-| `Extra Practice` | Extra coding exercises for deeper understanding |
+| `Day 07 Array of objects`            | Working with arrays of objects, finding max/min values, sorting arrays of objects                                                                    | exercises for Week 02 |
+| `Day 08 Test 02`                     | Test your knowledge from Days 05–07                                                                                                                  |
+| `Extra Practice`                     | Extra coding exercises for deeper understanding                                                                                                      |
+
 ---
 
 ## 🧠 What You Will Learn
 
 ### 🔹 **Fundamentals**
+
 - C++ syntax and structure
 - Variables, constants, and data types
 - Input/output using `cin` and `cout`
@@ -33,11 +34,13 @@ Each folder represents a learning day or topic, containing example codes, explan
 - Loops (`for`, `while`, `do-while`)
 
 ### 🔹 **Pointers & Memory Management**
+
 - Pointer basics
 - Dynamic memory allocation using `new` and `delete`
 - Memory leaks and safe copying of objects
 
 ### 🔹 **Object-Oriented Programming (OOP)**
+
 - Classes and objects
 - Constructors and destructors
 - Member functions
@@ -46,6 +49,7 @@ Each folder represents a learning day or topic, containing example codes, explan
 - Sorting objects based on attributes
 
 ### 🔹 **String Handling**
+
 - Using the C++ `string` class
 - Accessing characters (`[]`, `.at()`, `.front()`, `.back()`)
 - String size, capacity, and resizing
@@ -56,6 +60,7 @@ Each folder represents a learning day or topic, containing example codes, explan
 - Advanced string constructors
 
 ### 🔹 **Practice & Tests**
+
 - Coding exercises in each folder
 - Test days to assess progress
 - Extra practice for problem-solving
@@ -82,6 +87,11 @@ This project helps you:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
 
 # Author
 
