@@ -8,17 +8,17 @@ Each folder represents a learning day or topic, containing example codes, explan
 
 ## 📂 Repository Structure
 
-| Folder / File                        | Description                                                                                                                                          |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| `Day 01 Basic C++`                   | Fundamentals of C++: syntax, variables, operators, input/output, and simple programs                                                                 |
-| `Day 02 Dynamic Memory Allocation`   | Learn about `new`, `delete`, pointers, and memory management in C++                                                                                  |
-| `Day 03 Class and Object in C++`     | Introduction to classes, objects, constructors, member functions, and OOP basics                                                                     |
-| `Day 04 Test 01`                     | Test your knowledge from Days 01–03                                                                                                                  |
-| `Day 05 String Class in C++`         | Learn C++ `string` class, string operations, input/output, iterators, modifiers, and string streams                                                  |
-| `Day 06 More about class and string` | Advanced class and string concepts: dynamic object copying, member functions, range-based for loops, reverse and sort functions, string constructors |
-| `Day 07 Array of objects`            | Working with arrays of objects, finding max/min values, sorting arrays of objects                                                                    | exercises for Week 02 |
-| `Day 08 Test 02`                     | Test your knowledge from Days 05–07                                                                                                                  |
-| `Extra Practice`                     | Extra coding exercises for deeper understanding                                                                                                      |
+| Folder / File                        | Description                                                                                                                                                  |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Day 01 Basic C++`                   | Fundamentals of C++: syntax, variables, operators, input/output, and simple programs.                                                                        |
+| `Day 02 Dynamic Memory Allocation`   | Learn about `new`, `delete`, pointers, and memory management in C++.                                                                                         |
+| `Day 03 Class and Object in C++`     | Introduction to classes, objects, constructors, member functions, and OOP basics.                                                                            |
+| `Day 04 Test 01`                     | Test your knowledge of the topics covered in Days 01–03.                                                                                                     |
+| `Day 05 String Class in C++`         | Learn the C++ `string` class, string operations, input/output, iterators, modifiers, and string streams.                                                     |
+| `Day 06 More about class and string` | Explore advanced class and string concepts, dynamic object copying, member functions, range-based for loops, reversing and sorting, and string constructors. |
+| `Day 07 Array of objects`            | Work with arrays of objects, find maximum and minimum values, and sort arrays of objects.                                                                    |
+| `Day 08 Test 02`                     | Test your knowledge of the topics covered in Days 05–07.                                                                                                     |
+| `Extra Practice`                     | Solve additional coding exercises to strengthen your understanding and problem-solving skills.                                                               |
 
 ---
 
@@ -93,7 +93,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-
 # Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
@@ -128,4 +127,3 @@ If you found this repository helpful, please consider giving it a **⭐ Star**. 
 | 🐦 X (Twitter) | https://x.com/monjurmbm404                  |
 | ▶️ YouTube     | https://youtube.com/@monjurmbm404           |
 | ✍️ Medium      | https://medium.com/@monjurmbm404            |
-
